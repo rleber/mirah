@@ -1,7 +1,1 @@
-build
-dist
-pkg
-nbproject/private
-Duby Plugin/nbproject/private
-examples/appengine/war/
-*.class
+*.gem
